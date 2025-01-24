@@ -56,7 +56,11 @@ Questo bot è stato creato per aiutare un amico a prepararsi all'esame di fisiol
 
 ## Screenshot
 
-_Aggiungi qui screenshot dell'interfaccia del bot durante l'uso per mostrare le sue funzionalità._
+<p align="center">
+  <img src="/examples/questions.jpeg" alt="Selezione del numero di domande della simulazione" width="30%" style="display:inline-block; margin-right: 10px;">
+  <img src="/examples/tf.jpeg" alt="Esempio di domanda" width="30%" style="display:inline-block;">
+  <img src="/examples/recap.jpeg" alt="Riepilogo di fine test" width="30%" style="display:inline-block;">
+</p>
 
 ---
 
